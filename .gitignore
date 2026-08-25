@@ -1,0 +1,9 @@
+*.msix
+*.msixbundle
+*.appx
+*.appxbundle
+*.pfx
+*.p12
+*.cer
+*.sha256
+
