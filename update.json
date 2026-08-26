@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.0.0",
+  "version": "1.0.0.2",
   "critical": false,
-  "url": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.0.0.0/Jolounai-1.0.0.0-x64.msix",
-  "sha256": "eb784f5d85917e0cb53ffe316924bbbf5f6f02e6d15d6ebdf287e0e1e6561f67",
+  "url": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.0.0.2/Jolounai-1.0.0.2-x64.msix",
+  "sha256": "f2b0f6ffaccfeaacdc1932a854b4621504e8575634928b4c82411e8c71074f46",
   "minimumWindowsBuild": 22000,
   "manifestUri": "https://raw.githubusercontent.com/Urusjean/Jolounai-Updates/main/update.json",
   "appInstallerUri": "https://github.com/Urusjean/Jolounai-Updates/releases/latest/download/Jolounai.appinstaller",
-  "packageUri": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.0.0.0/Jolounai-1.0.0.0-x64.msix",
+  "packageUri": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.0.0.2/Jolounai-1.0.0.2-x64.msix",
   "package": {
     "architecture": "x64",
-    "uri": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.0.0.0/Jolounai-1.0.0.0-x64.msix",
-    "sha256": "eb784f5d85917e0cb53ffe316924bbbf5f6f02e6d15d6ebdf287e0e1e6561f67",
-    "fileName": "Jolounai-1.0.0.0-x64.msix"
+    "uri": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.0.0.2/Jolounai-1.0.0.2-x64.msix",
+    "sha256": "f2b0f6ffaccfeaacdc1932a854b4621504e8575634928b4c82411e8c71074f46",
+    "fileName": "Jolounai-1.0.0.2-x64.msix"
   }
 }
