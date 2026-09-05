@@ -1,17 +1,19 @@
 {
   "schemaVersion": 1,
-  "version": "1.0.1.4",
+  "version": "1.3.0.1",
   "critical": false,
-  "url": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.0.1.4/Jolounai-1.0.1.4-x64.msix",
-  "sha256": "6cb67eb12556a9c199ee7ef53a64954a50e1cdc60f2384440ccbea0a79816f80",
+  "url": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.3.0.1/Jolounai-1.3.0.1-x64.msix",
+  "sha256": "e37de8570fe94de9e9b9b108c7d742fc61da7326d6e35dbbe9a49d5fc91e6e46",
+  "sizeBytes": 72273074,
+  "releaseNotes": "Corrige el error al abrir el panel de actualizaciones cuando una comprobación usa progreso indeterminado.\nMantiene las actualizaciones en segundo plano, el panel desplegable, el cooldown de tres horas y el botón Pegar incorporados en la versión 1.3.\n",
   "minimumWindowsBuild": 22000,
   "manifestUri": "https://raw.githubusercontent.com/Urusjean/Jolounai-Updates/main/update.json",
   "appInstallerUri": "https://github.com/Urusjean/Jolounai-Updates/releases/latest/download/Jolounai.appinstaller",
-  "packageUri": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.0.1.4/Jolounai-1.0.1.4-x64.msix",
+  "packageUri": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.3.0.1/Jolounai-1.3.0.1-x64.msix",
   "package": {
     "architecture": "x64",
-    "uri": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.0.1.4/Jolounai-1.0.1.4-x64.msix",
-    "sha256": "6cb67eb12556a9c199ee7ef53a64954a50e1cdc60f2384440ccbea0a79816f80",
-    "fileName": "Jolounai-1.0.1.4-x64.msix"
+    "uri": "https://github.com/Urusjean/Jolounai-Updates/releases/download/v1.3.0.1/Jolounai-1.3.0.1-x64.msix",
+    "sha256": "e37de8570fe94de9e9b9b108c7d742fc61da7326d6e35dbbe9a49d5fc91e6e46",
+    "fileName": "Jolounai-1.3.0.1-x64.msix"
   }
 }
